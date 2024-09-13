@@ -1,4 +1,20 @@
 body { 
     color:wheat;
-    background:blue;
+    background:rgb(139, 139, 216);
+    margin: 0px;
+}
+
+header{
+    border-bottom:solid 2px rgb(3, 10, 110);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0, 42, 97);)
+}
+
+section{
+    background: rgb(164, 168, 224);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
